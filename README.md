@@ -1,10 +1,8 @@
-# React Calculator
+A website created in React. The website currently has an implemented navbar, home page, and a simple navbar.
 
-React Project to serve as a basic calculator. Implements 3rd party libraries, and makes use of hooks. Error handling present throughout
+If you would like to check out the site, is is hosted on https://react-calculator-opal-seven.vercel.app
 
 In the project directory, you can run:
+npm start
 
-### `npm start`
-
-Runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Runs the app in the development mode. Open http://localhost:3000 to view it in your browser.
